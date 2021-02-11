@@ -1,0 +1,12 @@
+release/addtask.o
+release/addtask2.o
+release/addtask3.o
+release/addtask4.o
+release/main.o
+release/mainwindow.o
+release/qrc_Resources.o
+release/moc_addtask.o
+release/moc_addtask2.o
+release/moc_addtask3.o
+release/moc_addtask4.o
+release/moc_mainwindow.o

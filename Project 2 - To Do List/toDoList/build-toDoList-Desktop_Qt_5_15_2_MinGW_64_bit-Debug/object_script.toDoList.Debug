@@ -1,0 +1,12 @@
+debug/addtask.o
+debug/addtask2.o
+debug/addtask3.o
+debug/addtask4.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_Resources.o
+debug/moc_addtask.o
+debug/moc_addtask2.o
+debug/moc_addtask3.o
+debug/moc_addtask4.o
+debug/moc_mainwindow.o

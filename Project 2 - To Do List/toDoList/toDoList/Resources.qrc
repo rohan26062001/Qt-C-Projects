@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/Resources">
+        <file>Files/task1.txt</file>
+        <file>Files/task2.txt</file>
+        <file>Files/task3.txt</file>
+        <file>Files/task4.txt</file>
+        <file>Files/deadline1.txt</file>
+        <file>Files/deadline2.txt</file>
+        <file>Files/deadline3.txt</file>
+        <file>Files/deadline4.txt</file>
+    </qresource>
+</RCC>
